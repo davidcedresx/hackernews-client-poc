@@ -1,0 +1,917 @@
+{
+    "hits": [
+        {
+            "created_at": "2021-04-13T01:24:28.000Z",
+            "title": null,
+            "url": null,
+            "author": "thunkshift1",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Good way to repurpose billions poured as capex into the older nodes",
+            "num_comments": null,
+            "story_id": 26786264,
+            "story_title": "CEO: Intel in talks to produce chips for automakers within six to nine months",
+            "story_url": "https://www.reuters.com/article/us-usa-semiconductors-idUSKBN2BZ2C4",
+            "parent_id": 26786264,
+            "created_at_i": 1618277068,
+            "_tags": [
+                "comment",
+                "author_thunkshift1",
+                "story_26786264"
+            ],
+            "objectID": "26787178",
+            "_highlightResult": {
+                "author": {
+                    "value": "thunkshift1",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "Good way to repurpose billions poured as capex into the older \u003cem\u003enodes\u003c/em\u003e",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "CEO: Intel in talks to produce chips for automakers within six to nine months",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://www.reuters.com/article/us-usa-semiconductors-idUSKBN2BZ2C4",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2021-04-13T01:20:31.000Z",
+            "title": null,
+            "url": null,
+            "author": "nodesocket",
+            "points": null,
+            "story_text": null,
+            "comment_text": "I just went through the process and they only let me switch to Lightroom annual (which I suspect starts a new annual subscription starting today).\u003cp\u003eCurious, what did you choose as a replacement for raster graphics? GIMP is a no-go, as its slow and buggy as well.",
+            "num_comments": null,
+            "story_id": 26786563,
+            "story_title": "Adobe Charges Subscription Cancellation Fee",
+            "story_url": "https://twitter.com/MRDADDGUY/status/1381628427246039045",
+            "parent_id": 26787020,
+            "created_at_i": 1618276831,
+            "_tags": [
+                "comment",
+                "author_nodesocket",
+                "story_26786563"
+            ],
+            "objectID": "26787152",
+            "_highlightResult": {
+                "author": {
+                    "value": "\u003cem\u003enodes\u003c/em\u003eocket",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "comment_text": {
+                    "value": "I just went through the process and they only let me switch to Lightroom annual (which I suspect starts a new annual subscription starting today).\u003cp\u003eCurious, what did you choose as a replacement for raster graphics? GIMP is a no-go, as its slow and buggy as well.",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_title": {
+                    "value": "Adobe Charges Subscription Cancellation Fee",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://twitter.com/MRDADDGUY/status/1381628427246039045",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2021-04-13T00:48:49.000Z",
+            "title": null,
+            "url": null,
+            "author": "nodesocket",
+            "points": null,
+            "story_text": null,
+            "comment_text": "I just tried to cancel today after getting absolutely fed up with Photoshop being buggy and insanely slow. I have a top of the line 16\u0026quot; MacBook pro, and waiting multiple seconds every single action inside Photoshop infuriates me. Can you provide more details on this? I am on their annual plan and they want to charge me to cancel.",
+            "num_comments": null,
+            "story_id": 26786563,
+            "story_title": "Adobe Charges Subscription Cancellation Fee",
+            "story_url": "https://twitter.com/MRDADDGUY/status/1381628427246039045",
+            "parent_id": 26786653,
+            "created_at_i": 1618274929,
+            "_tags": [
+                "comment",
+                "author_nodesocket",
+                "story_26786563"
+            ],
+            "objectID": "26786966",
+            "_highlightResult": {
+                "author": {
+                    "value": "\u003cem\u003enodes\u003c/em\u003eocket",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "comment_text": {
+                    "value": "I just tried to cancel today after getting absolutely fed up with Photoshop being buggy and insanely slow. I have a top of the line 16\u0026quot; MacBook pro, and waiting multiple seconds every single action inside Photoshop infuriates me. Can you provide more details on this? I am on their annual plan and they want to charge me to cancel.",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_title": {
+                    "value": "Adobe Charges Subscription Cancellation Fee",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://twitter.com/MRDADDGUY/status/1381628427246039045",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2021-04-12T23:54:03.000Z",
+            "title": null,
+            "url": null,
+            "author": "anyfoo",
+            "points": null,
+            "story_text": null,
+            "comment_text": "\u0026gt; To log a static snapshot with equivalent interactive expansion capability, console.log() would have to do a general deep copy of your object\u003cp\u003eNot necessarily, and if it did I don\u0026#x27;t think it would address the actual problem.\u003cp\u003econsole.log could do all the presentation work upfront, right then and there when you log, and provide a collapsed view of that. This would have to include detecting and cycling handles, as it would have to do for a deep copy as you mentioned. The cost would be wasting cycles on this work even if nobody looks at its result.\u003cp\u003eBut where it gets dangerous is if there\u0026#x27;s any \u003ci\u003eside effects\u003c/i\u003e in following the object tree. If visiting for logging e.g. creates nodes, or changes them, or whatever. Arguably \u0026quot;you get what you ask for\u0026quot;, but this and the performance hit for generating log output before anyone really looks at it deeply, are probably the main reason things are as they are.",
+            "num_comments": null,
+            "story_id": 26779800,
+            "story_title": "Use console.log() like a pro (2020)",
+            "story_url": "https://markodenic.com/use-console-log-like-a-pro/",
+            "parent_id": 26785429,
+            "created_at_i": 1618271643,
+            "_tags": [
+                "comment",
+                "author_anyfoo",
+                "story_26779800"
+            ],
+            "objectID": "26786592",
+            "_highlightResult": {
+                "author": {
+                    "value": "anyfoo",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "\u0026gt; To log a static snapshot with equivalent interactive expansion capability, console.log() would have to do a general deep copy of your object\u003cp\u003eNot necessarily, and if it did I don't think it would address the actual problem.\u003cp\u003econsole.log could do all the presentation work upfront, right then and there when you log, and provide a collapsed view of that. This would have to include detecting and cycling handles, as it would have to do for a deep copy as you mentioned. The cost would be wasting cycles on this work even if nobody looks at its result.\u003cp\u003eBut where it gets dangerous is if there's any \u003ci\u003eside effects\u003c/i\u003e in following the object tree. If visiting for logging e.g. creates \u003cem\u003enodes\u003c/em\u003e, or changes them, or whatever. Arguably \u0026quot;you get what you ask for\u0026quot;, but this and the performance hit for generating log output before anyone really looks at it deeply, are probably the main reason things are as they are.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "Use console.log() like a pro (2020)",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://markodenic.com/use-console-log-like-a-pro/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2021-04-12T23:48:32.000Z",
+            "title": null,
+            "url": null,
+            "author": "Jasper_",
+            "points": null,
+            "story_text": null,
+            "comment_text": "\u0026gt; Just as an example, have you heard of smart contracts?\u003cp\u003eYes. They seem to be a solution looking for a problem. What problems can you imagine smart contracts solving?\u003cp\u003e\u0026gt; How can a globally spanning Turing complete computer help? I don\u0026#x27;t know, but we will see attempts.\u003cp\u003eSo the answer is \u0026quot;nobody has thought of a single way this helps, after 10 years of thinking about it\u0026quot;.\u003cp\u003e\u0026gt; But for fun\u0026#x27;s sake, go to \u003ca href=\"https:\u0026#x2F;\u0026#x2F;coinmarketcap.com\u0026#x2F;\" rel=\"nofollow\"\u003ehttps:\u0026#x2F;\u0026#x2F;coinmarketcap.com\u0026#x2F;\u003c/a\u003e click a random currency and click source code \u0026#x2F; read the whitepaper.\u003cp\u003eOK The first one I clicked was Qtum: \u003ca href=\"https:\u0026#x2F;\u0026#x2F;coinmarketcap.com\u0026#x2F;currencies\u0026#x2F;qtum\u0026#x2F;\" rel=\"nofollow\"\u003ehttps:\u0026#x2F;\u0026#x2F;coinmarketcap.com\u0026#x2F;currencies\u0026#x2F;qtum\u0026#x2F;\u003c/a\u003e . The whitepaper link goes to a 404.\u003cp\u003eThe second one I clicked was VeChain. \u003ca href=\"https:\u0026#x2F;\u0026#x2F;coinmarketcap.com\u0026#x2F;currencies\u0026#x2F;vechain\u0026#x2F;\" rel=\"nofollow\"\u003ehttps:\u0026#x2F;\u0026#x2F;coinmarketcap.com\u0026#x2F;currencies\u0026#x2F;vechain\u0026#x2F;\u003c/a\u003e . It has no link to source code or a whitepaper.\u003cp\u003eThe third one I clicked was Dash, which thankfully had a whitepaper. Let\u0026#x27;s check it out: \u003ca href=\"https:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;dashpay\u0026#x2F;dash\u0026#x2F;wiki\u0026#x2F;Whitepaper\" rel=\"nofollow\"\u003ehttps:\u0026#x2F;\u0026#x2F;github.com\u0026#x2F;dashpay\u0026#x2F;dash\u0026#x2F;wiki\u0026#x2F;Whitepaper\u003c/a\u003e\u003cp\u003e\u0026gt; Currently the Dash network has ~4,800 active masternodes [8]. By requiring 1,000DASH collateral to become an active masternode, we create a system in which no one can control the entire network of masternodes. For example, if someone wanted to control 50% of the masternode network, they would have to buy 4,800,000 DASH from the open market. This would raise the price substantially and it would become impossible to acquire the needed DASH.\u003cp\u003eOh my god\u003cp\u003e\u0026gt; Bad actors could also run masternodes, but not provide any of the quality service that is required of the rest of the network. To reduce the possibility of people using the system to their advantage nodes must ping the rest of the network to ensure they remain active.\u003cp\u003eOh my goddddd\u003cp\u003eNobody making this has any clue about distributed systems, do they",
+            "num_comments": null,
+            "story_id": 26781753,
+            "story_title": "CEO of a top Bitcoin exchange warns: crackdown on cryptocurrencies may be coming",
+            "story_url": "https://www.cnbc.com/2021/04/12/bitcoin-kraken-ceo-jesse-powell-warns-of-cryptocurrency-crackdown.html",
+            "parent_id": 26785877,
+            "created_at_i": 1618271312,
+            "_tags": [
+                "comment",
+                "author_Jasper_",
+                "story_26781753"
+            ],
+            "objectID": "26786560",
+            "_highlightResult": {
+                "author": {
+                    "value": "Jasper_",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "\u0026gt; Just as an example, have you heard of smart contracts?\u003cp\u003eYes. They seem to be a solution looking for a problem. What problems can you imagine smart contracts solving?\u003cp\u003e\u0026gt; How can a globally spanning Turing complete computer help? I don't know, but we will see attempts.\u003cp\u003eSo the answer is \u0026quot;nobody has thought of a single way this helps, after 10 years of thinking about it\u0026quot;.\u003cp\u003e\u0026gt; But for fun's sake, go to \u003ca href=\"https://coinmarketcap.com/\" rel=\"nofollow\"\u003ehttps://coinmarketcap.com/\u003c/a\u003e click a random currency and click source code / read the whitepaper.\u003cp\u003eOK The first one I clicked was Qtum: \u003ca href=\"https://coinmarketcap.com/currencies/qtum/\" rel=\"nofollow\"\u003ehttps://coinmarketcap.com/currencies/qtum/\u003c/a\u003e . The whitepaper link goes to a 404.\u003cp\u003eThe second one I clicked was VeChain. \u003ca href=\"https://coinmarketcap.com/currencies/vechain/\" rel=\"nofollow\"\u003ehttps://coinmarketcap.com/currencies/vechain/\u003c/a\u003e . It has no link to source code or a whitepaper.\u003cp\u003eThe third one I clicked was Dash, which thankfully had a whitepaper. Let's check it out: \u003ca href=\"https://github.com/dashpay/dash/wiki/Whitepaper\" rel=\"nofollow\"\u003ehttps://github.com/dashpay/dash/wiki/Whitepaper\u003c/a\u003e\u003cp\u003e\u0026gt; Currently the Dash network has ~4,800 active masternodes [8]. By requiring 1,000DASH collateral to become an active masternode, we create a system in which no one can control the entire network of masternodes. For example, if someone wanted to control 50% of the masternode network, they would have to buy 4,800,000 DASH from the open market. This would raise the price substantially and it would become impossible to acquire the needed DASH.\u003cp\u003eOh my god\u003cp\u003e\u0026gt; Bad actors could also run masternodes, but not provide any of the quality service that is required of the rest of the network. To reduce the possibility of people using the system to their advantage \u003cem\u003enodes\u003c/em\u003e must ping the rest of the network to ensure they remain active.\u003cp\u003eOh my goddddd\u003cp\u003eNobody making this has any clue about distributed systems, do they",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "CEO of a top Bitcoin exchange warns: crackdown on cryptocurrencies may be coming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://www.cnbc.com/2021/04/12/bitcoin-kraken-ceo-jesse-powell-warns-of-cryptocurrency-crackdown.html",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2021-04-12T23:18:10.000Z",
+            "title": null,
+            "url": null,
+            "author": "alaties",
+            "points": null,
+            "story_text": null,
+            "comment_text": "It\u0026#x27;d be wherever in the network path has the most contention, all else being equal.\u003cp\u003eFor a home environment, this would most likely be at the Internet Gateway level, since home networks usually operate at \u0026gt;100Mbps transfer rates between nodes, but to the internet have \u0026lt;=100Mbps.\u003cp\u003eThat all being said, contention at the gateway level like this would be assuming that KCP and TCP are both being used for, say, large file downloads.\u003cp\u003eIf KCP is limited to use for sharing game state data for a game like Counter Strike, then the likelihood that KCP would consume all available bandwidth within a given time window is low, since the data rate is measured in hundreds of Kbps, not Mbps.",
+            "num_comments": null,
+            "story_id": 26777654,
+            "story_title": "KCP: A Fast and Reliable ARQ Protocol",
+            "story_url": "https://github.com/skywind3000/kcp/blob/master/README.en.md",
+            "parent_id": 26785969,
+            "created_at_i": 1618269490,
+            "_tags": [
+                "comment",
+                "author_alaties",
+                "story_26777654"
+            ],
+            "objectID": "26786346",
+            "_highlightResult": {
+                "author": {
+                    "value": "alaties",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "It'd be wherever in the network path has the most contention, all else being equal.\u003cp\u003eFor a home environment, this would most likely be at the Internet Gateway level, since home networks usually operate at \u0026gt;100Mbps transfer rates between \u003cem\u003enodes\u003c/em\u003e, but to the internet have \u0026lt;=100Mbps.\u003cp\u003eThat all being said, contention at the gateway level like this would be assuming that KCP and TCP are both being used for, say, large file downloads.\u003cp\u003eIf KCP is limited to use for sharing game state data for a game like Counter Strike, then the likelihood that KCP would consume all available bandwidth within a given time window is low, since the data rate is measured in hundreds of Kbps, not Mbps.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "KCP: A Fast and Reliable ARQ Protocol",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://github.com/skywind3000/kcp/blob/master/README.en.md",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2021-04-12T22:59:16.000Z",
+            "title": null,
+            "url": null,
+            "author": "cultofmetatron",
+            "points": null,
+            "story_text": null,
+            "comment_text": "I\u0026#x27;m also impressed by render and am planning to use it fo my next side project. I use elixir heavily and render actually supports having teh nodes be connected to form a mesh.\u003cp\u003eNeither dokku, heroku or any other PAAS that I know if supports this and its really important for some of the more interesting features the beam offers such as pupsub without having to use redis. In my startup, we\u0026#x27;re using horde to manage a cluster of dynamically spawned children. We setup a kubernetes cluster on aws for this. Today I would look at using render instead.",
+            "num_comments": null,
+            "story_id": 26782045,
+            "story_title": "The Decline of Heroku",
+            "story_url": "https://www.infoworld.com/article/3614210/the-decline-of-heroku.html",
+            "parent_id": 26783762,
+            "created_at_i": 1618268356,
+            "_tags": [
+                "comment",
+                "author_cultofmetatron",
+                "story_26782045"
+            ],
+            "objectID": "26786223",
+            "_highlightResult": {
+                "author": {
+                    "value": "cultofmetatron",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "I'm also impressed by render and am planning to use it fo my next side project. I use elixir heavily and render actually supports having teh \u003cem\u003enodes\u003c/em\u003e be connected to form a mesh.\u003cp\u003eNeither dokku, heroku or any other PAAS that I know if supports this and its really important for some of the more interesting features the beam offers such as pupsub without having to use redis. In my startup, we're using horde to manage a cluster of dynamically spawned children. We setup a kubernetes cluster on aws for this. Today I would look at using render instead.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "The Decline of Heroku",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://www.infoworld.com/article/3614210/the-decline-of-heroku.html",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2021-04-12T22:25:33.000Z",
+            "title": null,
+            "url": null,
+            "author": "kimixa",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Also \u0026quot;cpu-\u0026gt;cpu\u0026quot; NVLink is interesting. Though it was my understanding that NVLink is point-to-point, and would require some massive switching system to be able to access any node in the cluster anywhere near that rate without some locality bias (IE nodes on the \u0026quot;first\u0026quot; downstream switch are faster to access and less contention)",
+            "num_comments": null,
+            "story_id": 26781440,
+            "story_title": "Nvidia Unveils Grace: A High-Performance Arm CPU for Use in Big AI Systems",
+            "story_url": "https://www.anandtech.com/show/16610/nvidia-unveils-grace-a-highperformance-arm-server-cpu-for-use-in-ai-systems",
+            "parent_id": 26784961,
+            "created_at_i": 1618266333,
+            "_tags": [
+                "comment",
+                "author_kimixa",
+                "story_26781440"
+            ],
+            "objectID": "26785945",
+            "_highlightResult": {
+                "author": {
+                    "value": "kimixa",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "Also \u0026quot;cpu-\u0026gt;cpu\u0026quot; NVLink is interesting. Though it was my understanding that NVLink is point-to-point, and would require some massive switching system to be able to access any node in the cluster anywhere near that rate without some locality bias (IE \u003cem\u003enodes\u003c/em\u003e on the \u0026quot;first\u0026quot; downstream switch are faster to access and less contention)",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "Nvidia Unveils Grace: A High-Performance Arm CPU for Use in Big AI Systems",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://www.anandtech.com/show/16610/nvidia-unveils-grace-a-highperformance-arm-server-cpu-for-use-in-ai-systems",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2021-04-12T21:12:28.000Z",
+            "title": null,
+            "url": null,
+            "author": "politician",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Technically, you cannot download an NFT.  It\u0026#x27;s a distributed consensus that you cannot ever truly put your arms around (unless you\u0026#x27;re running a testnet and operate all of the nodes).",
+            "num_comments": null,
+            "story_id": 26779706,
+            "story_title": "Non-Fungible Taylor Swift",
+            "story_url": "https://stratechery.com/2021/non-fungible-taylor-swift/",
+            "parent_id": 26785018,
+            "created_at_i": 1618261948,
+            "_tags": [
+                "comment",
+                "author_politician",
+                "story_26779706"
+            ],
+            "objectID": "26785256",
+            "_highlightResult": {
+                "author": {
+                    "value": "politician",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "Technically, you cannot download an NFT.  It's a distributed consensus that you cannot ever truly put your arms around (unless you're running a testnet and operate all of the \u003cem\u003enodes\u003c/em\u003e).",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "Non-Fungible Taylor Swift",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://stratechery.com/2021/non-fungible-taylor-swift/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2021-04-12T20:54:18.000Z",
+            "title": null,
+            "url": null,
+            "author": "IggleSniggle",
+            "points": null,
+            "story_text": null,
+            "comment_text": "My preference for this is to use an assertion function, eg in nodejs:\u003cp\u003eassert(isDefined(user),”User must be defined”) \u0026#x2F;\u0026#x2F; throws if Falsy",
+            "num_comments": null,
+            "story_id": 26777090,
+            "story_title": "Using the switch(true) pattern in JavaScript",
+            "story_url": "https://seanbarry.dev/posts/switch-true-pattern",
+            "parent_id": 26780640,
+            "created_at_i": 1618260858,
+            "_tags": [
+                "comment",
+                "author_IggleSniggle",
+                "story_26777090"
+            ],
+            "objectID": "26785041",
+            "_highlightResult": {
+                "author": {
+                    "value": "IggleSniggle",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "My preference for this is to use an assertion function, eg in \u003cem\u003enodejs\u003c/em\u003e:\u003cp\u003eassert(isDefined(user),”User must be defined”) // throws if Falsy",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "Using the switch(true) pattern in JavaScript",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://seanbarry.dev/posts/switch-true-pattern",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2021-04-12T20:45:27.000Z",
+            "title": null,
+            "url": null,
+            "author": "dvdkon",
+            "points": null,
+            "story_text": null,
+            "comment_text": "\u0026gt; It\u0026#x27;s very important to use strictly given NodeJs version. There were already few reports that after JS recompilation the project started to act strange. After further analyse it came out that this was caused due to using the latest available Node.\u003cp\u003eI hate to bring node-bashing to this thread, but this further cements my dislike for the platform. I don\u0026#x27;t know why, but this happens much more often with node than Python or most other languages.",
+            "num_comments": null,
+            "story_id": 26781451,
+            "story_title": "Show HN: Personal Data Management Dashboard",
+            "story_url": "https://volmarg.github.io/",
+            "parent_id": 26781451,
+            "created_at_i": 1618260327,
+            "_tags": [
+                "comment",
+                "author_dvdkon",
+                "story_26781451"
+            ],
+            "objectID": "26784940",
+            "_highlightResult": {
+                "author": {
+                    "value": "dvdkon",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "\u0026gt; It's very important to use strictly given \u003cem\u003eNodeJs\u003c/em\u003e version. There were already few reports that after JS recompilation the project started to act strange. After further analyse it came out that this was caused due to using the latest available Node.\u003cp\u003eI hate to bring node-bashing to this thread, but this further cements my dislike for the platform. I don't know why, but this happens much more often with node than Python or most other languages.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "Show HN: Personal Data Management Dashboard",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://volmarg.github.io/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2021-04-12T20:45:04.000Z",
+            "title": null,
+            "url": null,
+            "author": "dharmab",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Even those numbers (10k to 15k nodes and 100k containers) are smaller than what a great Mesos framework was capable of.\u003cp\u003eOf course, this mattered to only a very small number of organizations.",
+            "num_comments": null,
+            "story_id": 26714513,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": 26776267,
+            "created_at_i": 1618260304,
+            "_tags": [
+                "comment",
+                "author_dharmab",
+                "story_26714513"
+            ],
+            "objectID": "26784934",
+            "_highlightResult": {
+                "author": {
+                    "value": "dharmab",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "Even those numbers (10k to 15k \u003cem\u003enodes\u003c/em\u003e and 100k containers) are smaller than what a great Mesos framework was capable of.\u003cp\u003eOf course, this mattered to only a very small number of organizations.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                }
+            }
+        },
+        {
+            "created_at": "2021-04-12T20:33:41.000Z",
+            "title": null,
+            "url": null,
+            "author": "IggleSniggle",
+            "points": null,
+            "story_text": null,
+            "comment_text": "I love adding colors to my logs whether they are bash or nodejs, but I generally check if the context is tty or not before applying colors.",
+            "num_comments": null,
+            "story_id": 26779800,
+            "story_title": "Use console.log() like a pro (2020)",
+            "story_url": "https://markodenic.com/use-console-log-like-a-pro/",
+            "parent_id": 26784530,
+            "created_at_i": 1618259621,
+            "_tags": [
+                "comment",
+                "author_IggleSniggle",
+                "story_26779800"
+            ],
+            "objectID": "26784794",
+            "_highlightResult": {
+                "author": {
+                    "value": "IggleSniggle",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "I love adding colors to my logs whether they are bash or \u003cem\u003enodejs\u003c/em\u003e, but I generally check if the context is tty or not before applying colors.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "Use console.log() like a pro (2020)",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://markodenic.com/use-console-log-like-a-pro/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2021-04-12T20:08:12.000Z",
+            "title": null,
+            "url": null,
+            "author": "rivn",
+            "points": null,
+            "story_text": null,
+            "comment_text": "do you know about util.inspect? \u003ca href=\"https:\u0026#x2F;\u0026#x2F;nodejs.org\u0026#x2F;api\u0026#x2F;util.html#util_util_inspect_object_showhidden_depth_colors\" rel=\"nofollow\"\u003ehttps:\u0026#x2F;\u0026#x2F;nodejs.org\u0026#x2F;api\u0026#x2F;util.html#util_util_inspect_object_sh...\u003c/a\u003e",
+            "num_comments": null,
+            "story_id": 26779800,
+            "story_title": "Use console.log() like a pro (2020)",
+            "story_url": "https://markodenic.com/use-console-log-like-a-pro/",
+            "parent_id": 26781699,
+            "created_at_i": 1618258092,
+            "_tags": [
+                "comment",
+                "author_rivn",
+                "story_26779800"
+            ],
+            "objectID": "26784503",
+            "_highlightResult": {
+                "author": {
+                    "value": "rivn",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "do you know about util.inspect? \u003ca href=\"https://nodejs.org/api/util.html#util_util_inspect_object_showhidden_depth_colors\" rel=\"nofollow\"\u003ehttps://\u003cem\u003enodejs\u003c/em\u003e.org/api/util.html#util_util_inspect_object_sh...\u003c/a\u003e",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "Use console.log() like a pro (2020)",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://markodenic.com/use-console-log-like-a-pro/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2021-04-12T19:26:14.000Z",
+            "title": null,
+            "url": null,
+            "author": "sumtechguy",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Yeah that is an interesting gamble on the part of Micron (not a bad one at this point).  In they are betting xpoint will not deliver the price points needed to compete with DRAM, might as well put a node in the same place with similar latency as xpoint.  Intel and Micron were seeing xpoint as a layer in memory.  With DRAM being a L4 cache to the data (or some mix).  The problem is keeping xpoint prices bellow DRAM yet high enough to keep the thing profitable.  Fiberoptic links between the two nodes at this point would probably really complicate things (at this point) as the tech just is not there yet.  But if they can get it to work the latency should overcome some of the issues of a secondary node holding shared memory.\u003cp\u003eAll of that because Intel is having trouble moving to 11nm.  All of their features were tied to that node process (tick tock).  It is why we are seeing Intel back features from the 11nm node back up to 14.  As their competitors are not sitting on 2017 tech and milking it.  They are moving to the new stuff.  xPoint was interesting 5 years ago.  When they could make a 128GB stick for half the price of DRAM one.  But they did not have the pins on the chip to support the larger workloads.  DRAM caught up in size to overcome it.  They have them now.  But now that config is not as interesting.",
+            "num_comments": null,
+            "story_id": 26779247,
+            "story_title": "Intel: Advances in silicon photonics can break the I/O “power wall”",
+            "story_url": "https://venturebeat.com/2021/04/12/intel-advances-in-silicon-photonics-can-break-the-i-o-power-wall-with-less-energy-higher-throughput/",
+            "parent_id": 26781523,
+            "created_at_i": 1618255574,
+            "_tags": [
+                "comment",
+                "author_sumtechguy",
+                "story_26779247"
+            ],
+            "objectID": "26783952",
+            "_highlightResult": {
+                "author": {
+                    "value": "sumtechguy",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "Yeah that is an interesting gamble on the part of Micron (not a bad one at this point).  In they are betting xpoint will not deliver the price points needed to compete with DRAM, might as well put a node in the same place with similar latency as xpoint.  Intel and Micron were seeing xpoint as a layer in memory.  With DRAM being a L4 cache to the data (or some mix).  The problem is keeping xpoint prices bellow DRAM yet high enough to keep the thing profitable.  Fiberoptic links between the two \u003cem\u003enodes\u003c/em\u003e at this point would probably really complicate things (at this point) as the tech just is not there yet.  But if they can get it to work the latency should overcome some of the issues of a secondary node holding shared memory.\u003cp\u003eAll of that because Intel is having trouble moving to 11nm.  All of their features were tied to that node process (tick tock).  It is why we are seeing Intel back features from the 11nm node back up to 14.  As their competitors are not sitting on 2017 tech and milking it.  They are moving to the new stuff.  xPoint was interesting 5 years ago.  When they could make a 128GB stick for half the price of DRAM one.  But they did not have the pins on the chip to support the larger workloads.  DRAM caught up in size to overcome it.  They have them now.  But now that config is not as interesting.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "Intel: Advances in silicon photonics can break the I/O “power wall”",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://venturebeat.com/2021/04/12/intel-advances-in-silicon-photonics-can-break-the-i-o-power-wall-with-less-energy-higher-throughput/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2021-04-12T19:22:39.000Z",
+            "title": null,
+            "url": null,
+            "author": "Salgat",
+            "points": null,
+            "story_text": null,
+            "comment_text": "I don\u0026#x27;t ever see most nations willingly giving up monetary policy by ceding to cryptocurrencies. This is especially true for China and the US. They can however adopt their own version, where they remain the authority and would operate the nodes responsible for handling transactions. This would allow many of the advantages of cryptocurrencies while still allowing a country to control not only the money supply but also be able to audit money and (even in the cases of fraud and theft) return money to its rightful owners. You could even have a system where you can freely convert between the digital version and the physical cash version.",
+            "num_comments": null,
+            "story_id": 26781753,
+            "story_title": "CEO of a top Bitcoin exchange warns: crackdown on cryptocurrencies may be coming",
+            "story_url": "https://www.cnbc.com/2021/04/12/bitcoin-kraken-ceo-jesse-powell-warns-of-cryptocurrency-crackdown.html",
+            "parent_id": 26782445,
+            "created_at_i": 1618255359,
+            "_tags": [
+                "comment",
+                "author_Salgat",
+                "story_26781753"
+            ],
+            "objectID": "26783902",
+            "_highlightResult": {
+                "author": {
+                    "value": "Salgat",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "I don't ever see most nations willingly giving up monetary policy by ceding to cryptocurrencies. This is especially true for China and the US. They can however adopt their own version, where they remain the authority and would operate the \u003cem\u003enodes\u003c/em\u003e responsible for handling transactions. This would allow many of the advantages of cryptocurrencies while still allowing a country to control not only the money supply but also be able to audit money and (even in the cases of fraud and theft) return money to its rightful owners. You could even have a system where you can freely convert between the digital version and the physical cash version.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "CEO of a top Bitcoin exchange warns: crackdown on cryptocurrencies may be coming",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://www.cnbc.com/2021/04/12/bitcoin-kraken-ceo-jesse-powell-warns-of-cryptocurrency-crackdown.html",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2021-04-12T19:18:44.000Z",
+            "title": null,
+            "url": null,
+            "author": "Felk",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Speaking of memory leaks, I once had to debug a memory leak caused by console log entries. Objects that are logged to the console are prevented from being garbage collected, even if the console was never opened. That includes DOM nodes or I think also handles to WebGL textures.",
+            "num_comments": null,
+            "story_id": 26779800,
+            "story_title": "Use console.log() like a pro (2020)",
+            "story_url": "https://markodenic.com/use-console-log-like-a-pro/",
+            "parent_id": 26780898,
+            "created_at_i": 1618255124,
+            "_tags": [
+                "comment",
+                "author_Felk",
+                "story_26779800"
+            ],
+            "objectID": "26783844",
+            "_highlightResult": {
+                "author": {
+                    "value": "Felk",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "Speaking of memory leaks, I once had to debug a memory leak caused by console log entries. Objects that are logged to the console are prevented from being garbage collected, even if the console was never opened. That includes DOM \u003cem\u003enodes\u003c/em\u003e or I think also handles to WebGL textures.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "Use console.log() like a pro (2020)",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://markodenic.com/use-console-log-like-a-pro/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2021-04-12T19:03:21.000Z",
+            "title": null,
+            "url": null,
+            "author": "NathanielK",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Intel has. Many M1 design choices are fairly typical for desktop x86 chips, but unheard of with ARM.\u003cp\u003eFor example, the M1 has 128 bit wide memory. This has been standard for decades on the desktop(dual channel), but unheard of in cellphones. The M1 also has similar amounts of cache to the new AMD and Intel chips, but thats several times more than the latest snapdragon. Qualcomm also doesn\u0026#x27;t just design for the latest node. Most of their volume is on cheaper, less dense nodes.",
+            "num_comments": null,
+            "story_id": 26781440,
+            "story_title": "Nvidia Unveils Grace: A High-Performance Arm CPU for Use in Big AI Systems",
+            "story_url": "https://www.anandtech.com/show/16610/nvidia-unveils-grace-a-highperformance-arm-server-cpu-for-use-in-ai-systems",
+            "parent_id": 26783077,
+            "created_at_i": 1618254201,
+            "_tags": [
+                "comment",
+                "author_NathanielK",
+                "story_26781440"
+            ],
+            "objectID": "26783641",
+            "_highlightResult": {
+                "author": {
+                    "value": "NathanielK",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "Intel has. Many M1 design choices are fairly typical for desktop x86 chips, but unheard of with ARM.\u003cp\u003eFor example, the M1 has 128 bit wide memory. This has been standard for decades on the desktop(dual channel), but unheard of in cellphones. The M1 also has similar amounts of cache to the new AMD and Intel chips, but thats several times more than the latest snapdragon. Qualcomm also doesn't just design for the latest node. Most of their volume is on cheaper, less dense \u003cem\u003enodes\u003c/em\u003e.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "Nvidia Unveils Grace: A High-Performance Arm CPU for Use in Big AI Systems",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://www.anandtech.com/show/16610/nvidia-unveils-grace-a-highperformance-arm-server-cpu-for-use-in-ai-systems",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2021-04-12T17:32:58.000Z",
+            "title": null,
+            "url": null,
+            "author": "dchuk",
+            "points": null,
+            "story_text": null,
+            "comment_text": "I think the big part is that farming with hard drives is a much more approachable thing to do than to try and mine BTC\u0026#x2F;ETH, considering both of those at a minimum require crazy GPU hardware, if not full blown custom chips, that no normal people will buy. Also, insane energy usage too, which Chia doesn\u0026#x27;t really have.\u003cp\u003eThat being said, yes, with the right amount of investment, someone could try and take over the network. That being said, look how many Full Nodes are already in the network...\u003cp\u003e\u003ca href=\"https:\u0026#x2F;\u0026#x2F;www.chiaexplorer.com\u0026#x2F;charts\u0026#x2F;nodes\" rel=\"nofollow\"\u003ehttps:\u0026#x2F;\u0026#x2F;www.chiaexplorer.com\u0026#x2F;charts\u0026#x2F;nodes\u003c/a\u003e",
+            "num_comments": null,
+            "story_id": 26780866,
+            "story_title": "Ask HN: What under-the-radar technology are you excited about?",
+            "story_url": null,
+            "parent_id": 26782106,
+            "created_at_i": 1618248778,
+            "_tags": [
+                "comment",
+                "author_dchuk",
+                "story_26780866"
+            ],
+            "objectID": "26782388",
+            "_highlightResult": {
+                "author": {
+                    "value": "dchuk",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "I think the big part is that farming with hard drives is a much more approachable thing to do than to try and mine BTC/ETH, considering both of those at a minimum require crazy GPU hardware, if not full blown custom chips, that no normal people will buy. Also, insane energy usage too, which Chia doesn't really have.\u003cp\u003eThat being said, yes, with the right amount of investment, someone could try and take over the network. That being said, look how many Full \u003cem\u003eNodes\u003c/em\u003e are already in the network...\u003cp\u003e\u003ca href=\"https://www.chiaexplorer.com/charts/nodes\" rel=\"nofollow\"\u003ehttps://www.chiaexplorer.com/charts/\u003cem\u003enodes\u003c/em\u003e\u003c/a\u003e",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "Ask HN: What under-the-radar technology are you excited about?",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2021-04-12T16:55:47.000Z",
+            "title": null,
+            "url": null,
+            "author": "codydh",
+            "points": null,
+            "story_text": null,
+            "comment_text": "In regards to your follow-up question, I\u0026#x27;ve been using Cloudflare Pages for a month or so now. I found that it was by default faster than Netlify, and that adding a Page Rule to cache everything made things even a bit faster.\u003cp\u003eMy guess is that by default it\u0026#x27;s not fully cached at all of their edge nodes, and by adding an aggressive Page Rule, the edge nodes can actually cache my site (which is very small and simple).",
+            "num_comments": null,
+            "story_id": 26778894,
+            "story_title": "Cloudflare Pages is now Generally Available",
+            "story_url": "https://blog.cloudflare.com/cloudflare-pages-ga/",
+            "parent_id": 26780515,
+            "created_at_i": 1618246547,
+            "_tags": [
+                "comment",
+                "author_codydh",
+                "story_26778894"
+            ],
+            "objectID": "26781820",
+            "_highlightResult": {
+                "author": {
+                    "value": "codydh",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "In regards to your follow-up question, I've been using Cloudflare Pages for a month or so now. I found that it was by default faster than Netlify, and that adding a Page Rule to cache everything made things even a bit faster.\u003cp\u003eMy guess is that by default it's not fully cached at all of their edge \u003cem\u003enodes\u003c/em\u003e, and by adding an aggressive Page Rule, the edge \u003cem\u003enodes\u003c/em\u003e can actually cache my site (which is very small and simple).",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "Cloudflare Pages is now Generally Available",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://blog.cloudflare.com/cloudflare-pages-ga/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }
+    ],
+    "nbHits": 20138,
+    "page": 0,
+    "nbPages": 50,
+    "hitsPerPage": 20,
+    "exhaustiveNbHits": true,
+    "query": "nodejs",
+    "params": "advancedSyntax=true\u0026analytics=true\u0026analyticsTags=backend\u0026query=nodejs",
+    "processingTimeMS": 7
+}
