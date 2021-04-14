@@ -1,4 +1,4 @@
-FROM node:14-alpine As development
+FROM node:14-alpine as development
 
 WORKDIR /usr/src/app
 
@@ -8,7 +8,7 @@ RUN npm install --only=development
 
 COPY . .
 
-RUN npm run build
+CMD ["npm", "build"]
 
 FROM node:14-alpine as production
 
