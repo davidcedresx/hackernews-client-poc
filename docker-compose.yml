@@ -12,12 +12,15 @@ services:
       - "3000:3000"
     depends_on:
       - server
+    networks:
+      - webnet
 
   server:
+    container_name: server
     build:
       context: ./server
       target: development
-    command: npm start
+    command: npm run start:dev
     volumes:
       - ./server:/usr/src/app
       - /usr/src/app/node_modules
@@ -25,8 +28,14 @@ services:
       - "5000:5000"
     depends_on:
       - mongo
+    networks:
+      - webnet
 
   mongo:
     image: mongo
     ports:
       - "27017:27017"
+
+
+networks:
+  webnet:

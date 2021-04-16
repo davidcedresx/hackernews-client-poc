@@ -12,7 +12,15 @@ export class ArticlesService {
   }
 
   findAll() {
-    return `This action returns all articles`;
+    return Array(10).fill(undefined).map((_, i) => ({
+      title: 'Fallback title',
+      story_title: 'Main title',
+      story_url: 'https://mainurl.com/',
+      url: 'https://fallbackurl.com/',
+      story_id: i,
+      author: 'xxxx',
+      created_at: "2021-04-13T01:20:31.000Z",
+    }));
   }
 
   findOne(id: number) {
