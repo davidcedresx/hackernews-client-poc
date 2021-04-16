@@ -13,7 +13,7 @@ const Articles: FC = () => {
       setLoading(true);
       try {
         const { data: response } = (await axios.get(
-          "http://server/articles/"
+          "//localhost:5000/articles/"
         )) as AxiosResponse<IArticle[]>;
         setArticles(response);
       } catch (e) {
