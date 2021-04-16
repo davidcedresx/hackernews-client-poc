@@ -6,6 +6,7 @@
     padding: .5rem;
     gap: 2rem;
     font-size: 13pt;
+    padding: 0 1rem;
 }
 
 .row:hover {

@@ -26,7 +26,7 @@ const ArticleList: FC<Props> = (props: Props) => {
           <div className="row">
             <a
               className="article-link"
-              href={article.url}
+              href={article.story_url}
               target="_blank"
               rel="noreferrer"
             >

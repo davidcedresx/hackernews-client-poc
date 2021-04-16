@@ -12,7 +12,7 @@ export class Article {
     title: string;
 
     @Prop()
-    story_title: number;
+    story_title: string;
 
     @Prop()
     story_url: string;
@@ -25,6 +25,9 @@ export class Article {
 
     @Prop({ required: true })
     created_at: string;
+
+    @Prop({ default: false, required: true })
+    hidden: boolean
 }
 
 export const ArticleSchema = SchemaFactory.createForClass(Article);
