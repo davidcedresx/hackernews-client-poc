@@ -33,7 +33,7 @@ export class ArticlesService {
     return this.articleModel.updateOne({ story_id: id }, { hidden: true }, { new: true });
   }
 
-  @Cron('45 * * * * *')
+  @Cron('0 * * * *')
   async fetchNewArticles() {
     interface Response {
       hits: ArticleDocument[]
@@ -52,5 +52,4 @@ export class ArticlesService {
 
     this.logger.debug(`inserted ${articles.length} rows`)
   }
-
 }

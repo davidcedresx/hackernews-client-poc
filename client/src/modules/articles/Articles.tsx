@@ -34,7 +34,6 @@ const Articles: FC = () => {
     catch(e) {
       console.log("something went wrong", e)
     }
-    
   }
 
   return (
