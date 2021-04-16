@@ -11,12 +11,11 @@ services:
     ports:
       - "3000:3000"
     depends_on:
-      - server
+      - backend
     networks:
       - webnet
 
-  server:
-    container_name: server
+  backend:
     build:
       context: ./server
       target: development
@@ -37,7 +36,6 @@ services:
       - "27017:27017"
     networks:
       - webnet
-
 
 networks:
   webnet:

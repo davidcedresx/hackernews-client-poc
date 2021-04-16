@@ -13,7 +13,7 @@ const Articles: FC = () => {
       setLoading(true);
       try {
         const { data: response } = (await axios.get(
-          "//localhost:5000/articles/"
+          "http://backend:5000/articles/"
         )) as AxiosResponse<IArticle[]>;
         setArticles(response);
       } catch (e) {
@@ -28,7 +28,7 @@ const Articles: FC = () => {
   const handleRemove = async (articleId: number) => {
     console.log('decided to remove article with id', articleId)
     try {
-      await axios.delete('//localhost:5000/articles/' + articleId.toString())
+      await axios.delete('http://backend:5000/articles/' + articleId.toString())
       setArticles(prevArticles => prevArticles.filter(article => article.story_id !== articleId))
     }
     catch(e) {

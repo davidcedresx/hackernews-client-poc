@@ -6,7 +6,7 @@ import { AppService } from './app.service';
 import { ArticlesModule } from './articles/articles.module';
 
 @Module({
-  imports: [ScheduleModule.forRoot(), MongooseModule.forRoot('mongodb://localhost:27017/hn-feed'), ArticlesModule],
+  imports: [ScheduleModule.forRoot(), MongooseModule.forRoot('mongodb://mongo:27017/hn-feed'), ArticlesModule],
   controllers: [AppController],
   providers: [AppService],
 })
