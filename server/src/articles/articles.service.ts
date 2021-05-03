@@ -1,5 +1,5 @@
 import { HttpService, Injectable, Logger } from '@nestjs/common';
-import { Cron } from '@nestjs/schedule';
+import { Cron, CronExpression } from '@nestjs/schedule';
 import { InjectModel } from '@nestjs/mongoose';
 
 import { Article, ArticleDocument } from './schemas/article.schema';
@@ -33,7 +33,7 @@ export class ArticlesService {
     return this.articleModel.updateOne({ story_id: id }, { hidden: true }, { new: true });
   }
 
-  @Cron('0 * * * *')
+  @Cron(CronExpression.EVERY_HOUR)
   async fetchNewArticles() {
     interface Response {
       hits: ArticleDocument[]
